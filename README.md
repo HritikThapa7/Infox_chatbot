@@ -6,3 +6,5 @@ pip install -r requirements.txt
 (requirements.txt inside INFOX-API)
 
 ## Update the mongoDB URI to your convenience
+
+## You can use offline version of mongoDB as well.
