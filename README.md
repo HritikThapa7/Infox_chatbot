@@ -8,3 +8,12 @@ pip install -r requirements.txt
 ## Update the mongoDB URI to your convenience
 
 ## You can use offline version of mongoDB as well.
+## Screenshots
+
+![App Screenshot](https://github.com/HritikThapa7/Infox_chatbot/blob/main/infox_admin/public/static/1.png?raw=true)
+
+![App Screenshot](https://github.com/HritikThapa7/Infox_chatbot/blob/main/infox_admin/public/static/2.png?raw=true)
+
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/3.png?raw=true)
+
+![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/4.png?raw=true)
