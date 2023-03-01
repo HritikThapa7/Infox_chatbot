@@ -13,7 +13,3 @@ pip install -r requirements.txt
 ![App Screenshot](https://github.com/HritikThapa7/Infox_chatbot/blob/main/infox_admin/public/static/1.png?raw=true)
 
 ![App Screenshot](https://github.com/HritikThapa7/Infox_chatbot/blob/main/infox_admin/public/static/2.png?raw=true)
-
-![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/3.png?raw=true)
-
-![App Screenshot](https://github.com/HritikThapa7/GadiBhada/blob/main/Screenshot/4.png?raw=true)
